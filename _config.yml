@@ -17,13 +17,14 @@ title: La Taberna de Arkenan
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Bienvenido a la taberna de Arkenan.
+
   Pase usted.
   Tome un poco de programación.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  Arkenan
-
+github_username: Arkenan
+excerpt_separator: <!---more--->
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
